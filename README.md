@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Check the live demo : 
 
-Login : https://nextlogin.herokuapp.com/login
-Registration : https://nextlogin.herokuapp.com/register
+Login : https://login-registration-nine.vercel.app/login
+Registration : https://login-registration-nine.vercel.app/register
 
 ## Getting Started
 
