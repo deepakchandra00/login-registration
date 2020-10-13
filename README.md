@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Check the live demo : 
+
+Login : https://nextlogin.herokuapp.com/login
+Registration : https://nextlogin.herokuapp.com/register
+
 ## Getting Started
 
 First, run the development server:
